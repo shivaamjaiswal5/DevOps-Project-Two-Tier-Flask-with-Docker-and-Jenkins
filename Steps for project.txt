@@ -1,0 +1,8 @@
+DEVOPS PROJECT:
+1. Write Docker file and Jenkins file -- Done
+2. Push code from local to remote
+3. Launch instance and connect it to using SSH.
+4. Update system, install docker, jenkins and done GitHub repo.
+5. Write docker compose file for App "docker-compose.yml"
+6. Login to Jenkins GUI
+7. Create Pipeline and build
